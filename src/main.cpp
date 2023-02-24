@@ -29,6 +29,6 @@ void loop() {
 
   digitalWrite(MOT2_A, LOW);
   analogWrite(MOT2_B, 255);
-  Serial.println("vamo");
+  Serial.println("vamoCaralho");
   delay(200);
 }
