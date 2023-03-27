@@ -2,10 +2,10 @@
 #include <MotorController.h>
 
 //TODO Correct following pinout
-#define MOT1_A 19
-#define MOT1_B 20
-#define MOT2_A 21
-#define MOT2_B 22
+#define MOT1_A 14
+#define MOT1_B 15
+#define MOT2_A 16
+#define MOT2_B 17
 
 //Global
 //MotorController Motors(MOT1_A, MOT1_B, MOT2_A, MOT2_A);
